@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0;"/>
+<title>Tiler.JS (0.2.3)</title>
+<style>
+  body {
+    display:block;
+    overflow:hidden;
+    padding:0;
+    margin:0;
+    font-size:18px;
+    font-family:Monaco, sans-serif;
+    text-shadow:
+      -1px  0px 1px #000,
+       1px  0px 1px #000,
+       0px -1px 1px #000,
+       0px  1px 1px #000;
+    color:#fff;
+  }
+  
+  a {
+    text-decoration: none;
+    color:#fff;
+  }
+
+  a:hover {
+    color: gold;
+  }
+  
+  #viewport {
+    position:absolute;
+    overflow:hidden;
+    z-index:0;
+    height:100%;
+    width:100%;
+  }
+  
+  header {
+    display:block;
+    position:absolute;
+    z-index:1;
+    left:0;
+    top:0;
+    width:100%;
+    height:40px;
+  }
+  
+  section {
+    display:block;
+  }
+  
+  .title {
+    float:left;
+    padding-left:15px;
+    line-height:40px;
+  }
+  
+  .buttons {
+    float:right;
+    padding-top:10px;
+    padding-right:15px;
+  }
+</style>
+
+
+<header>
+  <section class="title">
+    <a href="https://github.com/borbit/tiler/">tiler.js 0.2.3</a>
+  </section>
+  <section class="buttons">
+    <iframe src="http://ghbtns.com/github-btn.html?user=borbit&repo=tiler&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="92px" height="20px"></iframe>
+    <iframe src="http://ghbtns.com/github-btn.html?user=borbit&repo=tiler&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="78px" height="20px"></iframe>
+    <a href="https://twitter.com/borbit" class="twitter-follow-button" data-show-count="false">Follow @borbit</a>
+  </section>
+</header>
+
+<div id="viewport"></div>
+
+<!--
+
+http://iwantaneff.in/repo/
+
+
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                               .g`                              
+                                               j#                               
+                                  f           ]0#                               
+                                ,&            M0#                               
+                               ]0             00#                               
+                               00             00#                               
+                ,             #00             000f                              
+              y#             ]000             0000                              
+             _0^             0000             M0000                             
+            p00              0000              0000&_                           
+           j00f             _0000              400000g                          
+          _000f             00000_              M00000&_                        
+         .0000f             000008               ]000000gq                p     
+         ]0000f             M00000f               `M000000NN,,         ,j0!     
+         00000f              00000M                 *M00000000MMMMMMMMM0M`      
+         00000f              000000#                  ]@00000000000000M         
+        000000f              ]000000I                     !@FM00@M@F            
+        000000f              ~0000000g                                          
+        0000000               #00000008                                         
+        0000000                00000000&                                        
+        0000000#                #00000000,                                   +  
+        00000000r               ^000000000pg                               _pf  
+        000000001                ~0000000000&g_                          _j0^   
+        ~00000000_                `R0000000000&g_                      _j00~    
+         000000000,                 ~000000000000Ngg_,             __jg000!     
+         400000000&                  `M000000000000000MM&,,,,,,,jNN00000M`      
+         *000000000M                   `#00000000000000000000000000000M`        
+          0000000000#,                    "M000000000000000000000000M!          
+           00000000000                       !@Q0000000000000000@@!             
+           ]00000000000,                         `MMFMMFMMFMMF'                 
+            #00000000000L                                                       
+             000000000000#,                                                     
+              0000000000000p                                               y    
+              `00000000000000N_                                          _p     
+                000000000000000g__                                     _j0f     
+                 #000000000000000&p_                                 _j0M^      
+                  ~00000000000000000gg_                           _jg000f       
+                    M0000000000000000000M1_,                  __jN0000M`        
+                     ]M000000000000000000000MMMM,,,,,,,,,,#MMM0000000T          
+                       "0000000000000000000000000000000000000000000M            
+                          M00000000000000000000000000000000000000M              
+                            MM0000000000000000000000000000000009                
+                               ~#00000000000000000000000000P~!                  
+                                  ~~M000000000000000000M~~                      
+                                         ~~~~~~~~~~'                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39717286-10', 'netdna-cdn.com');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../../jquery.1.7.2.min.js"><\/script>')</script>
+
+
+<script src="jquery.event.drag.js"></script>
+<script src="jquery.ui.touch-punch.min.js"></script>
+
+<script src="row.js"></script>
+<script src="grid.js"></script>
+<script src="tiler.js"></script>
+
+<script>        
+  $(function() {
+    var fetched = new Grid();
+    var host = 'https://s3.amazonaws.com/serge.borb.it/tiler/';
+    var tiler = new Tiler($('#viewport'), {
+      tileSize: 150,
+      x: 35, y: 10,
+      
+      fetch: function(tofecth) {
+        tofecth.forEach(function(tile) {
+          var x = tile[0];
+          var y = tile[1];
+
+          if (fetched.get(x, y)) {
+            return tiler.show(x, y, fetched.get(x, y));
+          }
+
+          var img = new Image();
+          
+          img.onload = function() {
+            var tile = $('<img/>').attr('src', img.src);
+            
+            tiler.show(x, y, tile);
+            fetched.set(x, y, tile);
+          };
+
+          img.src = host + 'tile_' + x + '_' + y + '.jpg';
+        });
+      }
+    });
+
+    tiler.refresh();
+
+    var grid = tiler.grid;
+    var deltaX = 0;
+    var deltaY = 0;
+
+    grid.bind('drag', function(ev, dd) {
+      var x = deltaX + dd.deltaX;
+      var y = deltaY + dd.deltaY;
+
+      var translate = 'translate(' + x + 'px,' + y + 'px)';
+
+      grid.css('-webkit-transform', translate);
+      grid.css(   '-moz-transform', translate);
+      grid.css(        'transform', translate);
+
+      tiler.refresh();
+    });
+
+    grid.bind('dragend', function(ev, dd) {
+      deltaX += dd.deltaX;
+      deltaY += dd.deltaY;
+    });
+    
+    $(window).resize(function() {
+      tiler.refresh();
+    });
+  });
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31533680-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>

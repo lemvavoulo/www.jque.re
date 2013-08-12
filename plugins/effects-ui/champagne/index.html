@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="title" content="champagne.js by fresh tilled soil" />
+        <meta name="author" content="fresh tilled soil" />
+        <meta name="description" content="A jQuery plugin to randomize the display of objects in a grid." />
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+        <title>champagne.js | fresh tilled soil</title>
+
+        <link href="http://fonts.googleapis.com/css?family=Trochut:400,700" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" type="text/css" href="demo.css" />
+        <link rel="stylesheet" type="text/css" href="champagne/champagne.css" />
+
+        <!--[if IE]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+        <script type="text/javascript" src="http://use.typekit.com/obk6jbp.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    </head>
+    <body>
+        <div class="container">
+            <a href="http://github.com/freshtilledsoil/champagne" id="fork-me">Fork me on Github</a>
+            <h1>champagne.js</h1>
+            <h2><a href="http://freshtilledsoil.com">built by <strong>fresh tilled soil</strong></a></h2>
+
+            <nav>
+                <a class="button" href="https://github.com/freshtilledsoil/champagne/zipball/master">Download from Github</a>
+
+                <ul>
+                    <li><a href="javascript: void(0)" id="view-text" class="active">text demo</a></li>
+
+                    <li><a href="javascript: void(0)" id="view-images">images demo</a></li>
+                </ul>
+            </nav>
+
+            <ul class="champagne">
+                <li>hello</li>
+                <li>hola</li>
+                <li>bon giorno</li>
+                <li>ni hao</li>
+                <li>guten tag</li>
+                <li>namaste</li>
+                <li>hello</li>
+                <li>bonjour</li>
+                <li>hola</li>
+                <li>bon giorno</li>
+                <li>ni hao</li>
+                <li>chao</li>
+                <li>guten tag</li>
+                <li>namaste</li>
+                <li>bonjour</li>
+                <li>hola</li>
+                <li>ni hao</li>
+                <li>chao</li>
+                <li>guten tag</li>
+                <li>namaste</li>
+                <li>hello</li>
+                <li>bonjour</li>
+                <li>hola</li>
+                <li>bon giorno</li>
+            </ul>
+        </div> <!-- end .container -->
+
+<!--
+
+http://iwantaneff.in/repo/
+
+
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                               .g`                              
+                                               j#                               
+                                  f           ]0#                               
+                                ,&            M0#                               
+                               ]0             00#                               
+                               00             00#                               
+                ,             #00             000f                              
+              y#             ]000             0000                              
+             _0^             0000             M0000                             
+            p00              0000              0000&_                           
+           j00f             _0000              400000g                          
+          _000f             00000_              M00000&_                        
+         .0000f             000008               ]000000gq                p     
+         ]0000f             M00000f               `M000000NN,,         ,j0!     
+         00000f              00000M                 *M00000000MMMMMMMMM0M`      
+         00000f              000000#                  ]@00000000000000M         
+        000000f              ]000000I                     !@FM00@M@F            
+        000000f              ~0000000g                                          
+        0000000               #00000008                                         
+        0000000                00000000&                                        
+        0000000#                #00000000,                                   +  
+        00000000r               ^000000000pg                               _pf  
+        000000001                ~0000000000&g_                          _j0^   
+        ~00000000_                `R0000000000&g_                      _j00~    
+         000000000,                 ~000000000000Ngg_,             __jg000!     
+         400000000&                  `M000000000000000MM&,,,,,,,jNN00000M`      
+         *000000000M                   `#00000000000000000000000000000M`        
+          0000000000#,                    "M000000000000000000000000M!          
+           00000000000                       !@Q0000000000000000@@!             
+           ]00000000000,                         `MMFMMFMMFMMF'                 
+            #00000000000L                                                       
+             000000000000#,                                                     
+              0000000000000p                                               y    
+              `00000000000000N_                                          _p     
+                000000000000000g__                                     _j0f     
+                 #000000000000000&p_                                 _j0M^      
+                  ~00000000000000000gg_                           _jg000f       
+                    M0000000000000000000M1_,                  __jN0000M`        
+                     ]M000000000000000000000MMMM,,,,,,,,,,#MMM0000000T          
+                       "0000000000000000000000000000000000000000000M            
+                          M00000000000000000000000000000000000000M              
+                            MM0000000000000000000000000000000009                
+                               ~#00000000000000000000000000P~!                  
+                                  ~~M000000000000000000M~~                      
+                                         ~~~~~~~~~~'                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                -->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-39717286-10', 'netdna-cdn.com');
+  ga('send', 'pageview');
+
+</script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../../jquery.1.7.2.min.js"><\/script>')</script>
+        <script type="text/javascript" src="champagne/jquery.champagne.min.js"></script>
+
+        <script type="text/javascript">
+            $(function() {
+                $("ul.champagne").champagne();
+
+                // Demo
+                $("#view-images").click(function() {
+                    if (!$(this).hasClass("active")) {
+                        $("#view-text").removeClass("active");
+                        $(this).addClass("active");
+
+                        $("ul.champagne li").each(function() {
+                            $(this).css({height: 70, padding: 0, width: 190}).addClass($(this).text()).contents().remove();
+                            $(this).append("<img src='http://placehold.it/188x68/fafafa/999' alt='Image' />");
+                        });
+                        $("ul.champagne").champagne();
+                    }
+                });
+
+                $("#view-text").click(function() {
+                    if (!$(this).hasClass("active")) {
+                        $("#view-images").removeClass("active");
+                        $(this).addClass("active");
+
+                        $("ul.champagne li").each(function() {
+                            $(this).removeAttr("style").contents().remove()
+                            $(this).append($(this).attr("class")).removeAttr("class");
+                        });
+
+                        $("ul.champagne").champagne();
+                    }
+                });
+            });
+        </script>
+    <div id="bsap_1278447" class="bsarocks bsap_34ff9915aacae58d404570c35c360031"></div>
+<script src="//s3.buysellads.com/ac/bsa.js"></script>
+</body>
+</html>
