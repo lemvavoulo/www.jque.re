@@ -12,6 +12,14 @@
 <link rel="image_src" href="http://jquery.eiremedia.netdna-cdn.com/img/header.png" />
 <link rel="canonical" href="http://jque.re/" />
 
+<link rel="dns-prefetch" href="//maxcdn.com/" />
+<link rel="dns-prefetch" href="//tracking.maxcdn.com/" />
+<link rel="dns-prefetch" href="//flattr.com/" />
+<link rel="dns-prefetch" href="//cdn.jque.re/" />
+<link rel="dns-prefetch" href="//github.com/" />
+<link rel="dns-prefetch" href="//blog.higg.im/" />
+<link rel="dns-prefetch" href="//higg.im/" />
+
 <meta property="og:title" content="The Handpicked jQuery Plugins Repository" />
 <meta property="og:url" content="http://iwantaneff.in/repo/" />
 <meta property="og:image" content="http://jquery.eiremedia.netdna-cdn.com/img/header.png" />
@@ -329,7 +337,6 @@ Social
 <summary class="btn btn-primary btn-xlarge menu-button">
 Twitter
 </summary>
-<a class="btn btn-primary btn-large btn-warning sub-menu" href="http://jquery.eiremedia.netdna-cdn.com/plugins/twitter/allmytweets/index.html">all.my.tweets</a>
 <a class="btn btn-primary btn-large btn-warning sub-menu" href="http://jquery.eiremedia.netdna-cdn.com/plugins/twitter/tweetable/index.html">tweetable</a>
 <a class="btn btn-primary btn-large btn-warning sub-menu" href="http://jquery.eiremedia.netdna-cdn.com/plugins/twitter/livetwitter/index.html">livetwitter</a>
 <a class="btn btn-primary btn-large btn-warning sub-menu" href="http://jquery.eiremedia.netdna-cdn.com/plugins/twitter/tweet!/index.html">tweet!</a>
@@ -351,8 +358,6 @@ jQuery(function($){(function(){var me=this;this.hideDetailChildren=function(deta
 //init.js
 $(document).ready(function(){$("a").click(function(){if($(this).attr("target")!=="_blank"){$("#receiver").attr("src",$(this).attr("href"));if($.browser.webkit){$("#receiver").load(function(){$("#receiver").css("width","0px");$("#receiver").css("width",$(window).width()-400)})}return false}});$("#container").css("height",$(window).height());$(window).resize(function(){$("#container").css("height",$(window).height())});$("#receiver").css("width",$(window).width()-400);$(window).resize(function(){$("#receiver").css("width",$(window).width()-400)})});
 </script>
-
-<script src="http://unicorns.myshar.es/in/mint5/?js"></script>
 
 <script>
 var _gauges = _gauges || [];
