@@ -1,3 +1,4 @@
+var html = '';
 html += Mustache.to_html(template, v3).replace(/{{dirr}}/ig,v3.dir);
 html += Mustache.to_html(template, effects).replace(/{{dirr}}/ig,effects.dir);
 html += Mustache.to_html(template, forms).replace(/{{dirr}}/ig,forms.dir);

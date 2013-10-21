@@ -1,1 +1,0 @@
-function bust(){document.write="";window.top.location=window.self.location;setTimeout(function(){document.body.innerHTML=''},0);window.self.onload=function(evt){document.body.innerHTML=''}}if(window.top!==window.self){try{if(window.top.location.host){}else{bust()}}catch(ex){bust()}}
