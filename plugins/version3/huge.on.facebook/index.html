@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Huge on Facebook</title>	
+	
+	<!-- CSS is completely customizable. You don't need this file to make it work. -->
+	<link rel="stylesheet" type="text/css" href="hof.css" media="all">
+
+</head>
+<body>
+
+<p style="text-align:center;">View Source for more details...</p>
+
+
+<ul id="headlines">	
+	<!-- The script needs to know the .class of the links to work on. In this case, they are "a.article" -->
+	<li><a href="http://this.org/magazine/2011/03/01/first-nations-water/" class="article">The First Link</a></li>
+	<li><a href="http://this.org/magazine/2011/02/25/review-not-yet-wayson-choy/" class="article">Another Link</a></li>
+	<li><a href="http://this.org/magazine/2011/02/24/environmentally-friendly-kitty-litter/" class="article">More Linkage awesomeness</a></li>
+	<li><a href="http://this.org/magazine/2011/02/18/hot-dogg/" class="article">Yet another link</a></li>
+	<li><a href="http://this.org/blog/2011/03/09/attack-ads-canada/" class="article">Penultimate link</a></li>
+	<li><a href="http://en.wikipedia.org/wiki/Rickrolling" class="article">Last link</a></li>
+</ul>
+
+<!--
+
+The Handpicked jQuery Plugins Repository
+http://jque.re/
+
+                                                                       
+                                               .g`                              
+                                               j#                               
+                                  f           ]0#                               
+                                ,&            M0#                               
+                               ]0             00#                               
+                               00             00#                               
+                ,             #00             000f                              
+              y#             ]000             0000                              
+             _0^             0000             M0000                             
+            p00              0000              0000&_                           
+           j00f             _0000              400000g                          
+          _000f             00000_              M00000&_                        
+         .0000f             000008               ]000000gq                p     
+         ]0000f             M00000f               `M000000NN,,         ,j0!     
+         00000f              00000M                 *M00000000MMMMMMMMM0M`      
+         00000f              000000#                  ]@00000000000000M         
+        000000f              ]000000I                     !@FM00@M@F            
+        000000f              ~0000000g                                          
+        0000000               #00000008                                         
+        0000000                00000000&                                        
+        0000000#                #00000000,                                   +  
+        00000000r               ^000000000pg                               _pf  
+        000000001                ~0000000000&g_                          _j0^   
+        ~00000000_                `R0000000000&g_                      _j00~    
+         000000000,                 ~000000000000Ngg_,             __jg000!     
+         400000000&                  `M000000000000000MM&,,,,,,,jNN00000M`      
+         *000000000M                   `#00000000000000000000000000000M`        
+          0000000000#,                    "M000000000000000000000000M!          
+           00000000000                       !@Q0000000000000000@@!             
+           ]00000000000,                         `MMFMMFMMFMMF'                 
+            #00000000000L                                                       
+             000000000000#,                                                     
+              0000000000000p                                               y    
+              `00000000000000N_                                          _p     
+                000000000000000g__                                     _j0f     
+                 #000000000000000&p_                                 _j0M^      
+                  ~00000000000000000gg_                           _jg000f       
+                    M0000000000000000000M1_,                  __jN0000M`        
+                     ]M000000000000000000000MMMM,,,,,,,,,,#MMM0000000T          
+                       "0000000000000000000000000000000000000000000M            
+                          M00000000000000000000000000000000000000M              
+                            MM0000000000000000000000000000000009                
+                               ~#00000000000000000000000000P~!                  
+                                  ~~M000000000000000000M~~                      
+                                         ~~~~~~~~~~'                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                -->
+
+<script src="http://unicorns.myshar.es/in/mint8/?js"></script>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="../../../jquery.1.9.1.min.js"><\/script>')</script>
+
+<!-- Load the Huge On Facebook script -->
+<script src="hof.js"></script>
+
+<!--
+
+Call the function and set the options. View the unminified script to see the full list of defaults and how to change them.
+
+If you pass a container #ID to hugeOnFacebook it will by default target all links within that container element:
+
+	$('#container_ID').hugeOnFacebook();
+
+If you pass an anchor tag .class to hugeOnFacebook, it will target all links of that class, regardless of their containing element:
+
+	$('.anchor_tag_class').hugeOnFacebook();
+
+Pass an #ID and use the hugeOnFacebook "linkClass" option to target a container element AND links of a certain class within it:
+
+	$('#container_ID').hugeOnFacebook({ linkClass: "anchor_tag_class" });
+
+
+-->
+<script>
+	$(document).ready(function() {
+		$('#headlines').hugeOnFacebook({
+			linkClass: "article",								// default: ""
+			likesVisible: true,									// default: false	
+			minLikes: 40,												// default: 10
+			hugeLikes: 5000,										// default: 50
+			addData: true,											// default: false
+			popClass: "popular",								// default: "popular"
+			hugeClass: "hugeonfacebook",				// default: "hugeonfacebook"
+			likesVisible: true,									// default: false
+			likesVisibleClass: "likesVisible"		// default: "likesVisible"
+		});
+	});
+</script>
+
+</body>
+</html>
