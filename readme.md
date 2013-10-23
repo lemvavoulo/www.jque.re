@@ -1,372 +1,292 @@
 ## The Handpicked jQuery Plugins Repository
 
-### Supercharge your website!
+Website: [http://jque.re/](http://jque.re/)
 
-Author: [David Higgins][1]
-
-Website: [http://iwantaneff.in/repo/][2]
-
-Filedump: [http://iwantaneff.in/repo/browser/][3]
-
-Blogpost: [http://blog.higg.im/handpicked-jquery-plugins-repository/][4]
+Blogpost: [http://blog.higg.im/handpicked-jquery-plugins-repository/](http://blog.higg.im/handpicked-jquery-plugins-repository/)
 
 You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
+[![I Love Open Source](http://www.iloveopensource.io/images/logo-lightbg.png)](http://www.iloveopensource.io/projects/5267562c5ded962479000dda)
+
+### Effects & UI
+========================================================================
+http://plugins.jque.re/plugins/effects
+http://plugins.jque.re/plugins/aristo
+http://plugins.jque.re/plugins/blur.js
+http://plugins.jque.re/plugins/captify
+http://plugins.jque.re/plugins/capty
+http://plugins.jque.re/plugins/champagne
+http://plugins.jque.re/plugins/collapse
+http://plugins.jque.re/plugins/colortips
+http://plugins.jque.re/plugins/content.hover
+http://plugins.jque.re/plugins/context.menu
+http://plugins.jque.re/plugins/expando
+http://plugins.jque.re/plugins/flicker
+http://plugins.jque.re/plugins/flip
+http://plugins.jque.re/plugins/fullscreen.js
+http://plugins.jque.re/plugins/gips.tooltips
+http://plugins.jque.re/plugins/gloss
+http://plugins.jque.re/plugins/gradienter
+http://plugins.jque.re/plugins/icheck
+http://plugins.jque.re/plugins/innerfade
+http://plugins.jque.re/plugins/isotope
+http://plugins.jque.re/plugins/jfontsize
+http://plugins.jque.re/plugins/joyride
+http://plugins.jque.re/plugins/jqcloud
+http://plugins.jque.re/plugins/jquery.mobile.flat.ui.theme
+http://plugins.jque.re/plugins/jquery.ui.bootstrap
+http://plugins.jque.re/plugins/jrumble
+http://plugins.jque.re/plugins/jshaker
+http://plugins.jque.re/plugins/meow
+http://plugins.jque.re/plugins/message-bar
+http://plugins.jque.re/plugins/minibar
+http://plugins.jque.re/plugins/mobile.bootstrap
+http://plugins.jque.re/plugins/nestable
+http://plugins.jque.re/plugins/pie-menu
+http://plugins.jque.re/plugins/pointpoint
+http://plugins.jque.re/plugins/popover
+http://plugins.jque.re/plugins/powertip
+http://plugins.jque.re/plugins/quovolver
+http://plugins.jque.re/plugins/smart.slider
+http://plugins.jque.re/plugins/snotify
+http://plugins.jque.re/plugins/sweet-tooltip
+http://plugins.jque.re/plugins/switchy
+http://plugins.jque.re/plugins/tipsy
+http://plugins.jque.re/plugins/totem-ticker
+http://plugins.jque.re/plugins/verbose-calendar
+http://plugins.jque.re/plugins/wookmark
+
+##Forms & Controls
+========================================================================
+http://plugins.jque.re/plugins/forms-controls
+http://plugins.jque.re/plugins/addclear
+http://plugins.jque.re/plugins/charcount
+http://plugins.jque.re/plugins/chosen
+http://plugins.jque.re/plugins/contactable
+http://plugins.jque.re/plugins/default.text
+http://plugins.jque.re/plugins/dropkick
+http://plugins.jque.re/plugins/fancy.form
+http://plugins.jque.re/plugins/field.labels
+http://plugins.jque.re/plugins/fontselect
+http://plugins.jque.re/plugins/formalize
+http://plugins.jque.re/plugins/formidable
+http://plugins.jque.re/plugins/input.notes
+http://plugins.jque.re/plugins/jquery.numeric
+http://plugins.jque.re/plugins/jquery.percentageloader
+http://plugins.jque.re/plugins/jquery.selectable
+http://plugins.jque.re/plugins/jquery-knob
+http://plugins.jque.re/plugins/living.forms
+http://plugins.jque.re/plugins/long.press
+http://plugins.jque.re/plugins/markitup
+http://plugins.jque.re/plugins/pickadate
+http://plugins.jque.re/plugins/plumform
+http://plugins.jque.re/plugins/quick.tag
+http://plugins.jque.re/plugins/redactor
+http://plugins.jque.re/plugins/searchabledropdown
+http://plugins.jque.re/plugins/select2Buttons
+http://plugins.jque.re/plugins/selectmenu
+http://plugins.jque.re/plugins/simple-edit
+http://plugins.jque.re/plugins/spinner
+http://plugins.jque.re/plugins/superlabels
+http://plugins.jque.re/plugins/tabselect
+http://plugins.jque.re/plugins/tags.input
+http://plugins.jque.re/plugins/timepicker
+http://plugins.jque.re/plugins/uniform
+
+###Image Galleries & Decks
+========================================================================
+http://plugins.jque.re/plugins/ascensor
+http://plugins.jque.re/plugins/backgrounder
+http://plugins.jque.re/plugins/bgstretcher
+http://plugins.jque.re/plugins/content.carousel
+http://plugins.jque.re/plugins/fullscreenr
+http://plugins.jque.re/plugins/FullscreenSlitSlider
+http://plugins.jque.re/plugins/galleria
+http://plugins.jque.re/plugins/greyscale
+http://plugins.jque.re/plugins/imageloader
+http://plugins.jque.re/plugins/jquery-screen
+http://plugins.jque.re/plugins/minimit
+http://plugins.jque.re/plugins/photobox
+http://plugins.jque.re/plugins/photofy
+http://plugins.jque.re/plugins/sequence
+http://plugins.jque.re/plugins/sideways
+http://plugins.jque.re/plugins/supersized
+http://plugins.jque.re/plugins/tiler
+http://plugins.jque.re/plugins/vegas
+http://plugins.jque.re/plugins/zoomer
+http://plugins.jque.re/plugins/
+http://plugins.jque.re/plugins/
+
+###Menus & Navigation
+========================================================================
+http://plugins.jque.re/plugins/accordion
+http://plugins.jque.re/plugins/activebar
+http://plugins.jque.re/plugins/circle.menu
+http://plugins.jque.re/plugins/curtain
+http://plugins.jque.re/plugins/drill.down
+http://plugins.jque.re/plugins/drillable.menu
+http://plugins.jque.re/plugins/drop.menu
+http://plugins.jque.re/plugins/extremes
+http://plugins.jque.re/plugins/flickr.tooltip
+http://plugins.jque.re/plugins/foobar
+http://plugins.jque.re/plugins/google.play.tabs
+http://plugins.jque.re/plugins/homescreen
+http://plugins.jque.re/plugins/horizontal.dropdown
+http://plugins.jque.re/plugins/hover.menu
+http://plugins.jque.re/plugins/image.tabs
+http://plugins.jque.re/plugins/info.grid
+http://plugins.jque.re/plugins/jbar
+http://plugins.jque.re/plugins/jbreadcrumb
+http://plugins.jque.re/plugins/list.js
+http://plugins.jque.re/plugins/mean.menu
+http://plugins.jque.re/plugins/menu
+http://plugins.jque.re/plugins/nice.menu
+http://plugins.jque.re/plugins/pageslide
+http://plugins.jque.re/plugins/pushup.slider
+http://plugins.jque.re/plugins/random.list
+http://plugins.jque.re/plugins/ribbon-menu
+http://plugins.jque.re/plugins/site.feature
+http://plugins.jque.re/plugins/slideout.menu
+http://plugins.jque.re/plugins/slideout.side
+http://plugins.jque.re/plugins/smart.menu
+http://plugins.jque.re/plugins/sticklr.panel
+http://plugins.jque.re/plugins/tiny.nav
+http://plugins.jque.re/plugins/toolbar
+
+###Miscellaneous
+========================================================================
+http://plugins.jque.re/plugins/misc
+http://plugins.jque.re/plugins/browzr
+http://plugins.jque.re/plugins/flickr.loading
+http://plugins.jque.re/plugins/google.image.search
+http://plugins.jque.re/plugins/intelligist
+http://plugins.jque.re/plugins/jreject
+http://plugins.jque.re/plugins/noisy
+http://plugins.jque.re/plugins/peity
+http://plugins.jque.re/plugins/pretty.loader
+http://plugins.jque.re/plugins/snake
+http://plugins.jque.re/plugins/spin.js
+http://plugins.jque.re/plugins/timeago
+http://plugins.jque.re/plugins/toc
+
+###Modals & Lightboxes
+========================================================================
+http://plugins.jque.re/plugins/colorbox
+http://plugins.jque.re/plugins/facebox
+http://plugins.jque.re/plugins/jnotice
+http://plugins.jque.re/plugins/jquery.msgbox
+http://plugins.jque.re/plugins/jquery.popeye
+http://plugins.jque.re/plugins/leanmodal
+http://plugins.jque.re/plugins/modaldialog
+http://plugins.jque.re/plugins/notification
+http://plugins.jque.re/plugins/reveal
+http://plugins.jque.re/plugins/sexy.lightbox
+http://plugins.jque.re/plugins/smoke.js
+http://plugins.jque.re/plugins/ulightbox
+http://plugins.jque.re/plugins/zebra-dialog
+
+###Scrollbars & Scrolling
+========================================================================
+http://plugins.jque.re/plugins/scrollbars-onscroll
+http://plugins.jque.re/plugins/autobrowse
+http://plugins.jque.re/plugins/custom.scroller
+http://plugins.jque.re/plugins/droid.overscroll
+http://plugins.jque.re/plugins/droid.scroll
+http://plugins.jque.re/plugins/fixed.onscroll.1
+http://plugins.jque.re/plugins/fixed.onscroll.2
+http://plugins.jque.re/plugins/jquery.pin
+http://plugins.jque.re/plugins/jquery.scroll
+http://plugins.jque.re/plugins/jquerycustomscrollbar
+http://plugins.jque.re/plugins/jscroller
+http://plugins.jque.re/plugins/nano.scroll
+http://plugins.jque.re/plugins/nicescroll
+http://plugins.jque.re/plugins/pagescroller
+http://plugins.jque.re/plugins/perfect-scrollbar
+http://plugins.jque.re/plugins/sausage
+http://plugins.jque.re/plugins/scrollbar.jq
+http://plugins.jque.re/plugins/scrollnav
+http://plugins.jque.re/plugins/scrollorama
+http://plugins.jque.re/plugins/smartscroll
+http://plugins.jque.re/plugins/stickem
+http://plugins.jque.re/plugins/sticky.sections
+
+###Sliders
+========================================================================
+http://plugins.jque.re/plugins/sliders
+http://plugins.jque.re/plugins/coin.slider
+http://plugins.jque.re/plugins/elastislide
+http://plugins.jque.re/plugins/jquery.glideto
+http://plugins.jque.re/plugins/pristine.slider
+http://plugins.jque.re/plugins/responsive.slides
+http://plugins.jque.re/plugins/scrollpath
+http://plugins.jque.re/plugins/showcase
+http://plugins.jque.re/plugins/slides.js
+
+###Social Media
+========================================================================
+http://plugins.jque.re/plugins/social
+http://plugins.jque.re/plugins/50c1al
+http://plugins.jque.re/plugins/autopin
+http://plugins.jque.re/plugins/feed.menu
+http://plugins.jque.re/plugins/googleplusone.shiney
+http://plugins.jque.re/plugins/ishare.widget
+http://plugins.jque.re/plugins/jquery.social.flair
+http://plugins.jque.re/plugins/lifestream
+http://plugins.jque.re/plugins/sharethis
+http://plugins.jque.re/plugins/social.share.cards
+http://plugins.jque.re/plugins/social.share.privacy
+http://plugins.jque.re/plugins/video.poster.image
+http://plugins.jque.re/plugins/youtube.background
+http://plugins.jque.re/plugins/
+http://plugins.jque.re/plugins/
+http://plugins.jque.re/plugins/
+http://plugins.jque.re/plugins/========================================================================
+http://plugins.jque.re/plugins/airport
+http://plugins.jque.re/plugins/arctext
+http://plugins.jque.re/plugins/countdown
+http://plugins.jque.re/plugins/grrrid
+http://plugins.jque.re/plugins/highlight
+http://plugins.jque.re/plugins/hoverattribute
+http://plugins.jque.re/plugins/news-ticker
+http://plugins.jque.re/plugins/shuffle
+http://plugins.jque.re/plugins/slabtext
+http://plugins.jque.re/plugins/texteffects
+http://plugins.jque.re/plugins/textualizer
+
+###Text Effects
+========================================================================
+http://plugins.jque.re/plugins/bootstrap.switch
+http://plugins.jque.re/plugins/easy.reponsive.tabs
+http://plugins.jque.re/plugins/flexnav
+http://plugins.jque.re/plugins/hcolumns
+http://plugins.jque.re/plugins/HeadShrinker-master
+http://plugins.jque.re/plugins/heapbox
+http://plugins.jque.re/plugins/huge.on.facebook
+http://plugins.jque.re/plugins/ikselect
+http://plugins.jque.re/plugins/jinvertscroll
+http://plugins.jque.re/plugins/jquery.autocomplete
+http://plugins.jque.re/plugins/jquery.github
+http://plugins.jque.re/plugins/jquery.ohsnap
+http://plugins.jque.re/plugins/jquery.textcomplete
+http://plugins.jque.re/plugins/jquery.viewport
+http://plugins.jque.re/plugins/least
+http://plugins.jque.re/plugins/magic.suggest
+http://plugins.jque.re/plugins/nod.validation
+http://plugins.jque.re/plugins/nprogress
+http://plugins.jque.re/plugins/onepage.scroll
+http://plugins.jque.re/plugins/passy
+http://plugins.jque.re/plugins/plumtube
+http://plugins.jque.re/plugins/portbox
+http://plugins.jque.re/plugins/powerranger
+http://plugins.jque.re/plugins/selecter
+http://plugins.jque.re/plugins/social.feed
+http://plugins.jque.re/plugins/superbox
+http://plugins.jque.re/plugins/tidytime.js
+http://plugins.jque.re/plugins/tooltipster
+http://plugins.jque.re/plugins/wchar
+http://plugins.jque.re/plugins/windows
+http://plugins.jque.re/plugins/zelect
+http://plugins.jque.re/plugins/
+http://plugins.jque.re/plugins/
+
 [![Foo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/thing/976983/The-Handpicked-jQuery-Plugins-Repo)
-
-----------
-
-
-  [1]: http://higg.im/
-  [2]: http://iwantaneff.in/repo/
-  [3]: http://iwantaneff.in/repo/browser/
-  [4]: http://blog.higg.im/handpicked-jquery-plugins-repository/
-
-> One of the greatest things about
-> jQuery is the ever-expanding userbase.
-> In the past it was common for
-> libraries to have a small following,
-> with only a handful of plugins and
-> widgets made by advocates of the
-> library. Now it seems everyone has
-> their own jQuery plugin. You only have
-> to look on Github to see many
-> programmers have thrown their
-> two-cents into the jQuery community.
-> It seems you have the dabblers who
-> make small plugins to test their
-> skill, and (usually) end-up creating
-> something truely awesome, and the
-> aficionados who only do jQuery stuff
-> (and only very rarely throw out good
-> code, though some do).
-> 
-> Over the past three or so years I have
-> been assimilating and trying to make
-> sense of the sheer volume of these
-> plugins, and over the course of my
-> constant checking of del.icio.us, and
-> various other javascript related
-> sites, I came up with a jQuery project
-> of my own. I couldn't help it, I had
-> to respond to this phenomenon. You
-> see, I collect jQuery plugins that I
-> find interesting, and if time permits,
-> use them extensively in my projects.
-> It turns out, I only like good jQuery
-> plugins, that is, plugins which bring
-> something new to the table, or offer a
-> unique way of interacting with a
-> website that hasn't been done before.
-> 
-> Sadly, some plugin authors don't get
-> the exposure they deserve for their
-> work, as usually references to a
-> particular plugin are drowned by the
-> noise of the dreaded 'link list' /
-> 'roundup' type post. Hands up how many
-> people discovered a plugin they really
-> liked by wading through a huge list on
-> some blog? (*Puts hands up*). If the
-> web-as-app needs better
-> discover-ability techniques, then
-> surely we must get rid of bloated
-> content farms serving up the 'coolest
-> jquery plugins of 2011' type posts,
-> and actually create something a bit
-> more human and above all, of high
-> quality.
-> 
-> This is a 'handpicked' repository of
-> jQuery scripts, so don't be offended
-> when you see a script you don't like.
-> If you're annoyed certain plugins
-> didn't make the list, create your own
-> repo! I've even made the entire site's
-> source code available so you can do
-> just that.
-
-### Live Demos:
-
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/content.hover/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/content.hover/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/verbose-calendar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/verbose-calendar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/nestable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/nestable/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/minibar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/minibar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/aristo/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/aristo/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/captify/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/captify/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/collapse/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/collapse/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/pointpoint/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/pointpoint/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/colortips/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/colortips/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/flip/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/flip/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/gloss/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/gloss/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/gradienter/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/gradienter/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/innerfade/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/innerfade/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/isotope/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/isotope/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jrumble/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jrumble/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jshaker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jshaker/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/quovolver/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/quovolver/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/flicker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/flicker/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/snotify/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/snotify/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/message-bar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/message-bar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/tipsy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/tipsy/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/capty/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/capty/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/context.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/context.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/smart.slider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/smart.slider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jqcloud/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jqcloud/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jfontsize/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jfontsize/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/joyride/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/joyride/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jquery.ui.bootstrap/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jquery.ui.bootstrap/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jconfirmaction/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jconfirmaction/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/pie-menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/pie-menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/sweet-tooltip/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/sweet-tooltip/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/totem-ticker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/totem-ticker/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/blur.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/blur.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/fullscreen.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/fullscreen.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/champagne/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/champagne/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/expando/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/expando/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/powertip/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/powertip/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/icheck/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/icheck/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jquery.mobile.flat.ui.theme/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/jquery.mobile.flat.ui.theme/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/switchy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/switchy/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/popover/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/effects-ui/popover/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/dropkick/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/dropkick/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/fancy.form/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/fancy.form/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/field.labels/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/field.labels/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/formalize/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/formalize/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/input.notes/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/input.notes/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/living.forms/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/living.forms/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/quick.tag/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/quick.tag/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/selectmenu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/selectmenu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/tags.input/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/tags.input/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/uniform/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/uniform/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/formidable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/formidable/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/chosen/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/chosen/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/markitup/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/markitup/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/fontselect/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/fontselect/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/tabselect/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/tabselect/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/select2Buttons/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/select2Buttons/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery-knob/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery-knob/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/redactor/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/redactor/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/spinner/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/spinner/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.percentageloader/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.percentageloader/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/charcount/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/charcount/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/contactable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/contactable/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/plumform/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/plumform/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/timepicker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/timepicker/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/searchabledropdown/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/searchabledropdown/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.selectable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/jquery.selectable/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/long.press/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/long.press/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/pickadate/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/pickadate/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/superlabels/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/forms-controls/superlabels/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/accordion/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/accordion/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/activebar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/activebar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drill.down/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drill.down/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drop.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drop.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/flickr.tooltip/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/flickr.tooltip/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/foobar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/foobar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/extremes/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/extremes/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/nice.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/nice.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/pageslide/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/pageslide/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/circle.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/circle.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/slideout.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/slideout.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/slideout.side/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/slideout.side/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/tiny.nav/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/tiny.nav/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/curtain/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/curtain/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/hover.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/hover.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/random.list/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/random.list/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/list.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/list.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/info.grid/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/info.grid/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/jbar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/jbar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/horizontal.dropdown/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/horizontal.dropdown/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/google.play.tabs/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/google.play.tabs/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/pushup.slider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/pushup.slider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/smart.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/smart.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/site.feature/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/site.feature/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drillable.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/drillable.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/sticklr.panel/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/sticklr.panel/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/jbreadcrumb/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/jbreadcrumb/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/image.tabs/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/image.tabs/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/toolbar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/toolbar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/mean.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/menu-nav/mean.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/airport/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/airport/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/hoverattribute/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/hoverattribute/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/texteffects/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/texteffects/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/textualizer/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/textualizer/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/shuffle/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/shuffle/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/arctext/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/arctext/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/slabtext/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/slabtext/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/news-ticker/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/news-ticker/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/grrrid/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/grrrid/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/countdown/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/countdown/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/highlight/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/text-effects/highlight/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/fullscreenr/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/fullscreenr/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/sideways/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/sideways/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/vegas/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/vegas/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/content.carousel/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/content.carousel/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/photofy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/photofy/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/minimit/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/minimit/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/supersized/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/supersized/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/backgrounder/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/backgrounder/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/jquery-screen/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/jquery-screen/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/bgstretcher/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/bgstretcher/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/sequence/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/sequence/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/ascensor/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/ascensor/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/greyscale/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/greyscale/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/FullscreenSlitSlider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/FullscreenSlitSlider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/zoomer/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/zoomer/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/imageloader/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/imageloader/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/photobox/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/photobox/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/tiler/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/image-galleries-decks/tiler/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/jreject/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/jreject/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/snake/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/snake/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/pretty.loader/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/pretty.loader/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/spin.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/spin.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/flickr.loading/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/flickr.loading/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/google.image.search/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/google.image.search/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/noisy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/noisy/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/transit/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/transit/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/intelligist/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/intelligist/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/toc/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/toc/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/timeago/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/timeago/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/browzr/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/browzr/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/peity/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/misc/peity/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/modaldialog/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/modaldialog/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jquery.popeye/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jquery.popeye/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/smoke.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/smoke.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/colorbox/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/colorbox/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/sexy.lightbox/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/sexy.lightbox/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/reveal/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/reveal/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/facebox/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/facebox/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/zebra-dialog/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/zebra-dialog/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/leanmodal/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/leanmodal/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jquery.msgbox/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jquery.msgbox/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jnotice/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/jnotice/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/notification/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/modals-lightboxes/notification/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/custom.scroller/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/custom.scroller/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/fixed.onscroll.1/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/fixed.onscroll.1/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/fixed.onscroll.2/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/fixed.onscroll.2/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/sausage/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/sausage/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollbar.jq/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollbar.jq/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquery.scroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquery.scroll/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquerycustomscrollbar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquerycustomscrollbar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollorama/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollorama/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jscroller/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jscroller/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/sticky.sections/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/sticky.sections/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/pagescroller/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/pagescroller/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/nano.scroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/nano.scroll/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/droid.overscroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/droid.overscroll/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/droid.scroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/droid.scroll/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/antiscroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/antiscroll/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/nicescroll/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/nicescroll/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/stickem/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/stickem/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/autobrowse/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/autobrowse/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquery.pin/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/jquery.pin/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/perfect-scrollbar/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/perfect-scrollbar/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollnav/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/scrollbars-onscroll/scrollnav/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/elastislide/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/elastislide/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/orbit/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/orbit/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/showcase/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/showcase/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/coin.slider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/coin.slider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/slides.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/slides.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/jquery.glideto/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/jquery.glideto/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/responsive.slides/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/responsive.slides/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/scrollpath/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/scrollpath/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/pristine.slider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/pristine.slider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/unslider/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/sliders/unslider/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/feed.menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/feed.menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/ishare.widget/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/ishare.widget/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/lifestream/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/lifestream/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/sharethis/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/sharethis/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/youtube.background/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/youtube.background/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/googleplusone.shiney/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/googleplusone.shiney/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.cards/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.cards/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/autopin/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/autopin/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/video.poster.image/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/video.poster.image/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/50c1al/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/50c1al/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/jquery.social.flair/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/jquery.social.flair/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.privacy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/social/social.share.privacy/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/allmytweets/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/allmytweets/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweetable/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweetable/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/livetwitter/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/livetwitter/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweet!/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/twitter/tweet!/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/color-thief/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/color-thief/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/css3-social-signin-buttons/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/css3-social-signin-buttons/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/dzslides/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/dzslides/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/flexselect/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/flexselect/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/fontselect/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/fontselect/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/hideall-tabs/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/hideall-tabs/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/html-minifier/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/html-minifier/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/ice/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/ice/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/kix/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/kix/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/noisy/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/noisy/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/pagify/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/pagify/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/path-menu/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/path-menu/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/progress-polyfill/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/progress-polyfill/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/push-it/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/push-it/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/simple-tooltip/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/simple-tooltip/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/slang/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/slang/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/tinycon/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/tinycon/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/tinyrange/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/tinyrange/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/unicons/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/unicons/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/social.bookmarks/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/social.bookmarks/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/add.clear/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/add.clear/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/frame.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/frame.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/glisse.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/glisse.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/grumble.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/grumble.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/slider.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/slider.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/swipe.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/swipe.js/index.html)
-- [http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/turn.js/index.html](http://effinroot.eiremedia.netdna-cdn.com/repo/plugins/github-demos/turn.js/index.html)
-
-
-
-                                                              
-                                               .g`                              
-                                               j#                               
-                                  f           ]0#                               
-                                ,&            M0#                               
-                               ]0             00#                               
-                               00             00#                               
-                ,             #00             000f                              
-              y#             ]000             0000                              
-             _0^             0000             M0000                             
-            p00              0000              0000&_                           
-           j00f             _0000              400000g                          
-          _000f             00000_              M00000&_                        
-         .0000f             000008               ]000000gq                p     
-         ]0000f             M00000f               `M000000NN,,         ,j0!     
-         00000f              00000M                 *M00000000MMMMMMMMM0M`      
-         00000f              000000#                  ]@00000000000000M         
-        000000f              ]000000I                     !@FM00@M@F            
-        000000f              ~0000000g                                          
-        0000000               #00000008                                         
-        0000000                00000000&                                        
-        0000000#                #00000000,                                   +  
-        00000000r               ^000000000pg                               _pf  
-        000000001                ~0000000000&g_                          _j0^   
-        ~00000000_                `R0000000000&g_                      _j00~    
-         000000000,                 ~000000000000Ngg_,             __jg000!     
-         400000000&                  `M000000000000000MM&,,,,,,,jNN00000M`      
-         *000000000M                   `#00000000000000000000000000000M`        
-          0000000000#,                    "M000000000000000000000000M!          
-           00000000000                       !@Q0000000000000000@@!             
-           ]00000000000,                         `MMFMMFMMFMMF'                 
-            #00000000000L                                                       
-             000000000000#,                                                     
-              0000000000000p                                               y    
-              `00000000000000N_                                          _p     
-                000000000000000g__                                     _j0f     
-                 #000000000000000&p_                                 _j0M^      
-                  ~00000000000000000gg_                           _jg000f       
-                    M0000000000000000000M1_,                  __jN0000M`        
-                     ]M000000000000000000000MMMM,,,,,,,,,,#MMM0000000T          
-                       "0000000000000000000000000000000000000000000M            
-                          M00000000000000000000000000000000000000M              
-                            MM0000000000000000000000000000000009                
-                               ~#00000000000000000000000000P~!                  
-                                  ~~M000000000000000000M~~                      
-                                         ~~~~~~~~~~'                            
-                                                                                
-                                                                                
-                                                                                
-                                                                                
