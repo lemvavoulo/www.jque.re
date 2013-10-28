@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<sitemap>
+<!-- generator="wordpress/3.3.1" -->
+<!-- sitemap-generator-url="http://www.arnebrachhold.de" sitemap-generator-version="3.2.6" -->
+<!-- generated-on="September 18, 2012 7:59 pm" -->
+<!-- Debug: Total comment count: 0 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://jque.re/</loc>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
 <url><loc>http://plugins.jque.re/plugins/effects-ui/effects</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
 <url><loc>http://plugins.jque.re/plugins/effects-ui/aristo</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
 <url><loc>http://plugins.jque.re/plugins/effects-ui/blur.js</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
@@ -235,5 +243,6 @@
 <url><loc>http://plugins.jque.re/plugins/text-effects/zelect</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
 <url><loc>http://plugins.jque.re/plugins/text-effects/</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
 <url><loc>http://plugins.jque.re/plugins/text-effects/</loc><changefreq>monthly</changefreq><priority>0.2</priority></url>
-</sitemap>
-</sitemapindex>
+
+
+</urlset>
