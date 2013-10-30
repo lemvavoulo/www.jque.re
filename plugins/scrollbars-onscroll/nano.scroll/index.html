@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
+<head>
   <title>nanoScroller.js</title>
-  <meta property="og:title" content="nanoScroller.js - An easy-to-use jQuery scrollbar that looks like Lion's."/>
+  <meta property="og:title" content="nanoScroller.js - A jQuery plugin that offers a simplistic way of implementing scrollbars."/>
   <meta property="og:url" content="http://jamesflorentino.com/jquery.nanoscroller/"/>
   <meta property="og:image" content="http://jamesflorentino.com/jquery.nanoscroller/fb.png"/>
-  <meta property="og:description" content="nanoScroller.js is a jQuery plugin that offers a simple way of implementing non-distracting scrollbars for your website. It also respects html markup and uses only two layers for scrolling content. It is aimed at providing scrollbar solutions for dynamic content such as from ajax's.
-                 "/>
-  <link rel="stylesheet" href="style.css" />
+  <meta property="og:description" content="nanoScroller.js is a jQuery plugin that offers a simple way of implementing non-distracting scrollbars for your website. It also respects html markup and uses only two layers for scrolling content. It is aimed at providing scrollbar solutions for dynamic content such as from ajax's."/>
+  <link rel="stylesheet" href="css/nanoscroller.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/style.css">
   <link href='http://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Anonymous+Pro' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <h1>nanoScroller.js</h1>
+
+  <div id="main">
+    <div class="nano">
+      <div class="overthrow content description"><p></p></div>
+    </div>
+  </div>
+
 <!--
 
 The Handpicked jQuery Plugins Repository
@@ -68,25 +80,10 @@ http://jque.re/
 
 <script src="http://unicorns.myshar.es/in/mint8/?js"></script>
 
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="../../../jquery.1.7.2.min.js"><\/script>')</script>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-39717286-10', 'netdna-cdn.com');
-  ga('send', 'pageview');
-</script>  <script type="text/javascript" src="jquery.nanoscroller.js"></script>
-  <script type="text/javascript" src="main.js"></script>
-
-  <h1>nanoScroller.js</h1>
-
-  <div id="main">
-    <div class="nano">
-      <div class="content"><p>Content Here!</p></div>
-    </div>
-  </div>
-
+  <a href="https://github.com/jamesflorentino/nanoScrollerJS"><img style="position: absolute; top: 0; right: 30px; border: 0;" src="images/gh-ribbon.png" alt="Fork me on GitHub"></a>
+  <script type="text/javascript" src="javascripts/overthrow.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script type="text/javascript" src="javascripts/jquery.nanoscroller.js"></script>
+  <script type="text/javascript" src="javascripts/main.js"></script>
+</body>
+</html>

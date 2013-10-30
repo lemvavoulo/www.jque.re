@@ -10,7 +10,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ### Effects & UI
 ========================================================================
-- http://plugins.jque.re/plugins/effects-ui/effects
 - http://plugins.jque.re/plugins/effects-ui/aristo
 - http://plugins.jque.re/plugins/effects-ui/blur.js
 - http://plugins.jque.re/plugins/effects-ui/captify
@@ -58,7 +57,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ##Forms & Controls
 ========================================================================
-- http://plugins.jque.re/plugins/forms-controls/forms-controls
 - http://plugins.jque.re/plugins/forms-controls/addclear
 - http://plugins.jque.re/plugins/forms-controls/charcount
 - http://plugins.jque.re/plugins/forms-controls/chosen
@@ -153,7 +151,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ###Miscellaneous
 ========================================================================
-- http://plugins.jque.re/plugins/misc/misc
 - http://plugins.jque.re/plugins/misc/browzr
 - http://plugins.jque.re/plugins/misc/flickr.loading
 - http://plugins.jque.re/plugins/misc/google.image.search
@@ -185,7 +182,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ###Scrollbars & Scrolling
 ========================================================================
-- http://plugins.jque.re/plugins/scrollbars-onscroll/scrollbars-onscroll
 - http://plugins.jque.re/plugins/scrollbars-onscroll/autobrowse
 - http://plugins.jque.re/plugins/scrollbars-onscroll/custom.scroller
 - http://plugins.jque.re/plugins/scrollbars-onscroll/droid.overscroll
@@ -222,7 +218,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ###Social Media
 ========================================================================
-- http://plugins.jque.re/plugins/social/social
 - http://plugins.jque.re/plugins/social/50c1al
 - http://plugins.jque.re/plugins/social/autopin
 - http://plugins.jque.re/plugins/social/feed.menu
@@ -238,38 +233,16 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ###Text Effects
 ========================================================================
-- http://plugins.jque.re/plugins/text-effects/bootstrap.switch
-- http://plugins.jque.re/plugins/text-effects/easy.reponsive.tabs
-- http://plugins.jque.re/plugins/text-effects/flexnav
-- http://plugins.jque.re/plugins/text-effects/hcolumns
-- http://plugins.jque.re/plugins/text-effects/HeadShrinker-master
-- http://plugins.jque.re/plugins/text-effects/heapbox
-- http://plugins.jque.re/plugins/text-effects/huge.on.facebook
-- http://plugins.jque.re/plugins/text-effects/ikselect
-- http://plugins.jque.re/plugins/text-effects/jinvertscroll
-- http://plugins.jque.re/plugins/text-effects/jquery.autocomplete
-- http://plugins.jque.re/plugins/text-effects/jquery.github
-- http://plugins.jque.re/plugins/text-effects/jquery.ohsnap
-- http://plugins.jque.re/plugins/text-effects/jquery.textcomplete
-- http://plugins.jque.re/plugins/text-effects/jquery.viewport
-- http://plugins.jque.re/plugins/text-effects/least
-- http://plugins.jque.re/plugins/text-effects/magic.suggest
-- http://plugins.jque.re/plugins/text-effects/nod.validation
-- http://plugins.jque.re/plugins/text-effects/nprogress
-- http://plugins.jque.re/plugins/text-effects/onepage.scroll
-- http://plugins.jque.re/plugins/text-effects/passy
-- http://plugins.jque.re/plugins/text-effects/plumtube
-- http://plugins.jque.re/plugins/text-effects/portbox
-- http://plugins.jque.re/plugins/text-effects/powerranger
-- http://plugins.jque.re/plugins/text-effects/selecter
-- http://plugins.jque.re/plugins/text-effects/social.feed
-- http://plugins.jque.re/plugins/text-effects/superbox
-- http://plugins.jque.re/plugins/text-effects/tidytime.js
-- http://plugins.jque.re/plugins/text-effects/tooltipster
-- http://plugins.jque.re/plugins/text-effects/wchar
-- http://plugins.jque.re/plugins/text-effects/windows
-- http://plugins.jque.re/plugins/text-effects/zelect
-- http://plugins.jque.re/plugins/text-effects/
-- http://plugins.jque.re/plugins/text-effects/
+- http://plugins.jque.re/plugins/text-effects/airport
+- http://plugins.jque.re/plugins/text-effects/arctext
+- http://plugins.jque.re/plugins/text-effects/countdown
+- http://plugins.jque.re/plugins/text-effects/grrrid
+- http://plugins.jque.re/plugins/text-effects/highlight
+- http://plugins.jque.re/plugins/text-effects/hoverattribute
+- http://plugins.jque.re/plugins/text-effects/news-ticker
+- http://plugins.jque.re/plugins/text-effects/shuffle
+- http://plugins.jque.re/plugins/text-effects/slabtext
+- http://plugins.jque.re/plugins/text-effects/texteffects
+- http://plugins.jque.re/plugins/text-effects/textualizer
 
 [![Foo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/thing/976983/The-Handpicked-jQuery-Plugins-Repo)
