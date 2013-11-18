@@ -245,4 +245,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://plugins.jque.re/plugins/text-effects/texteffects
 - http://plugins.jque.re/plugins/text-effects/textualizer
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jquer/jque.re/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 [![Foo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/thing/976983/The-Handpicked-jQuery-Plugins-Repo)
