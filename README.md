@@ -61,7 +61,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/charcount/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/chosen/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/contactable/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/default.text/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/dropkick/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/fancy.form/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/field.labels/
@@ -82,7 +81,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/redactor/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/searchabledropdown/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/select2Buttons/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/selectmenu/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/simple-edit/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/spinner/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/superlabels/
@@ -100,7 +98,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/fullscreenr/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/FullscreenSlitSlider/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/galleria/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/greyscale/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/imageloader/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/jquery-screen/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/image-galleries-decks/minimit/
@@ -126,7 +123,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/flickr.tooltip/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/foobar/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/google.play.tabs/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/homescreen/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/horizontal.dropdown/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/hover.menu/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/menu-nav/image.tabs/
@@ -206,7 +202,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 
 ###Sliders
 ========================================================================
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/sliders/sliders/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/sliders/coin.slider/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/sliders/elastislide/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/sliders/jquery.glideto/
