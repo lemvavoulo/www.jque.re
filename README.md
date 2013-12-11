@@ -63,7 +63,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/contactable/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/dropkick/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/fancy.form/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/field.labels/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/fontselect/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/formalize/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/formidable/
@@ -75,7 +74,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/living.forms/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/long.press/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/markitup/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/pickadate/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/plumform/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/quick.tag/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/forms-controls/redactor/
@@ -148,8 +146,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 ###Miscellaneous
 ========================================================================
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/misc/browzr/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/misc/flickr.loading/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/misc/google.image.search/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/misc/intelligist/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/misc/jreject/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/misc/noisy/
