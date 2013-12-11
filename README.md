@@ -26,7 +26,6 @@ You are browsing the Github home of **The jQuery Handpicked Plugins Repo**
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/gips.tooltips/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/gloss/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/gradienter/
-- http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/icheck/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/innerfade/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/isotope/
 - http://handpicked.eiremedia.netdna-cdn.com/plugins/effects-ui/jfontsize/
