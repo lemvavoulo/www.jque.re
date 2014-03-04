@@ -3,17 +3,6 @@
 +--------------------------------------------------------------------+
  http://jque.re/               
 +--------------------------------------------------------------------+
- Hosted on MaxCDN - http://higg.im/maxcdn/
-+--------------------------------------------------------------------+
- I would like to thank the following people.
- Without you all, such a project couldn't exist (properly).
-+--------------------------------------------------------------------+
-
-John Resig
-Taylor Jasko
-Justin Dorfman
-David Henzel
-Steve Souders
 
 Icalia Labs for the Furatto CSS framework.
 http://icalialabs.com/
@@ -32,12 +21,3 @@ https://github.com/necolas/css3-github-buttons
 
 Mathias Bynens for the <details> polyfill.
 https://github.com/mathiasbynens/jquery-details
-
-CDN.TL
-http://www.cdn.tl/
-
-And of course, everyone else involved.
-
-Special thanks to NetDNA, everbody on the jquery team, and
-
-Very special thanks to the creators of the plugins hosted on this site.
