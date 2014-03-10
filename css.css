@@ -39,9 +39,9 @@ body,html {
 
 .sponsor a {
     display: block;
-    background: url('img/m.png?!') no-repeat;
-    width: 95px;
-    height: 148px;
+    background: url('img/jquery.svgz') no-repeat;
+    width: 96px;
+    height: 91px;
 }
 
 
