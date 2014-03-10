@@ -1,5 +1,5 @@
-<url><loc><?xml version="1.0" encoding="UTF-8"?>
-<url><loc><urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>http://www.jque.re/jque.re/plugins/effects-ui/aristo/index.html</loc></url>
 <url><loc>http://www.jque.re/jque.re/plugins/effects-ui/blur.js/index.html</loc></url>
 <url><loc>http://www.jque.re/jque.re/plugins/effects-ui/captify/index.html</loc></url>
