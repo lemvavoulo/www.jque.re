@@ -39,7 +39,7 @@ body,html {
 
 .sponsor a {
     display: block;
-    background: url('img/jquery.svgz') no-repeat;
+    background: url('img/jquery.svg') no-repeat;
     width: 96px;
     height: 91px;
 }
