@@ -1,464 +1,464 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?><urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset>
 
+<url><loc>http://jque.re/plugins/effects-ui/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/aristo/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/aristo/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/blur.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/blur.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/captify/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/captify/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/capty/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/capty/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/champagne/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/champagne/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/collapse/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/collapse/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/colortips/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/colortips/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/content.hover/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/content.hover/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/context.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/context.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/expando/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/expando/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/flicker/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/flicker/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/flip/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/flip/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/fullscreen.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/fullscreen.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/gips.tooltips/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/gips.tooltips/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/gloss/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/gloss/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/gradienter/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/gradienter/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/innerfade/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/innerfade/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/isotope/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/isotope/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/jfontsize/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/jfontsize/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/joyride/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/joyride/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/jqcloud/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/jqcloud/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/jquery.mobile.flat.ui.theme/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/jquery.mobile.flat.ui.theme/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/jquery.ui.bootstrap/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/jquery.ui.bootstrap/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/jrumble/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/jrumble/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/jshaker/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/jshaker/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/meow/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/meow/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/message-bar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/message-bar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/minibar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/minibar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/mobile.bootstrap/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/mobile.bootstrap/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/nestable/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/nestable/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/pie-menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/pie-menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/pointpoint/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/pointpoint/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/popover/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/popover/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/powertip/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/powertip/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/quovolver/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/quovolver/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/smart.slider/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/smart.slider/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/snotify/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/snotify/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/sweet-tooltip/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/sweet-tooltip/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/switchy/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/switchy/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/tipsy/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/tipsy/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/totem-ticker/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/totem-ticker/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/verbose-calendar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/verbose-calendar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/effects-ui/wookmark/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/effects-ui/wookmark/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/addclear/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/addclear/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/charcount/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/charcount/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/chosen/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/chosen/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/contactable/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/contactable/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/dropkick/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/dropkick/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/fancy.form/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/fancy.form/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/fontselect/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/fontselect/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/formalize/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/formalize/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/formidable/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/formidable/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/input.notes/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/input.notes/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/jquery.numeric/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/jquery.numeric/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/jquery.percentageloader/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/jquery.percentageloader/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/jquery.selectable/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/jquery.selectable/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/jquery-knob/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/jquery-knob/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/living.forms/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/living.forms/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/long.press/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/long.press/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/markitup/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/markitup/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/pickadate/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/pickadate/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/plumform/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/plumform/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/quick.tag/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/quick.tag/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/redactor/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/redactor/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/searchabledropdown/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/searchabledropdown/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/select2Buttons/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/select2Buttons/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/simple-edit/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/simple-edit/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/spinner/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/spinner/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/superlabels/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/superlabels/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/tabselect/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/tabselect/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/tags.input/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/tags.input/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/timepicker/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/timepicker/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/forms-controls/uniform/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/forms-controls/uniform/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/ascensor/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/ascensor/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/backgrounder/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/backgrounder/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/bgstretcher/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/bgstretcher/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/content.carousel/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/content.carousel/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/fullscreenr/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/fullscreenr/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/FullscreenSlitSlider/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/FullscreenSlitSlider/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/galleria/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/galleria/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/imageloader/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/imageloader/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/jquery-screen/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/jquery-screen/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/minimit/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/minimit/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/photobox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/photobox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/photofy/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/photofy/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/sequence/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/sequence/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/sideways/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/sideways/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/supersized/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/supersized/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/tiler/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/tiler/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/vegas/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/vegas/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/image-galleries-decks/zoomer/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/image-galleries-decks/zoomer/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/accordion/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/accordion/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/activebar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/activebar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/circle.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/circle.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/curtain/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/curtain/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/drill.down/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/drill.down/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/drillable.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/drillable.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/drop.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/drop.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/extremes/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/extremes/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/flickr.tooltip/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/flickr.tooltip/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/foobar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/foobar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/google.play.tabs/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/google.play.tabs/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/horizontal.dropdown/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/horizontal.dropdown/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/hover.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/hover.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/image.tabs/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/image.tabs/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/info.grid/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/info.grid/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/jbar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/jbar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/jbreadcrumb/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/jbreadcrumb/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/list.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/list.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/mean.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/mean.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/nice.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/nice.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/pageslide/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/pageslide/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/pushup.slider/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/pushup.slider/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/random.list/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/random.list/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/ribbon-menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/ribbon-menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/site.feature/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/site.feature/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/slideout.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/slideout.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/slideout.side/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/slideout.side/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/smart.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/smart.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/sticklr.panel/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/sticklr.panel/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/tiny.nav/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/tiny.nav/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/menu-nav/toolbar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/menu-nav/toolbar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/browzr/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/browzr/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/intelligist/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/intelligist/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/jreject/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/jreject/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/noisy/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/noisy/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/peity/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/peity/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/pretty.loader/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/pretty.loader/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/snake/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/snake/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/spin.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/spin.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/timeago/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/timeago/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/misc/toc/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/misc/toc/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/colorbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/colorbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/facebox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/facebox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/jnotice/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/jnotice/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/jquery.msgbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/jquery.msgbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/jquery.popeye/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/jquery.popeye/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/leanmodal/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/leanmodal/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/modaldialog/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/modaldialog/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/notification/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/notification/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/reveal/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/reveal/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/sexy.lightbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/sexy.lightbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/smoke.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/smoke.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/ulightbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/ulightbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/modals-lightboxes/zebra-dialog/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/modals-lightboxes/zebra-dialog/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/autobrowse/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/autobrowse/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/custom.scroller/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/custom.scroller/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/droid.overscroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/droid.overscroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/droid.scroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/droid.scroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/fixed.onscroll.1/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/fixed.onscroll.1/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/fixed.onscroll.2/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/fixed.onscroll.2/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/jquery.pin/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/jquery.pin/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/jquery.scroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/jquery.scroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/jquerycustomscrollbar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/jquerycustomscrollbar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/jscroller/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/jscroller/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/nano.scroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/nano.scroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/nicescroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/nicescroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/pagescroller/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/pagescroller/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/perfect-scrollbar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/perfect-scrollbar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/sausage/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/sausage/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/scrollbar.jq/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/scrollbar.jq/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/scrollnav/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/scrollnav/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/scrollorama/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/scrollorama/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/smartscroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/smartscroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/stickem/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/stickem/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/scrollbars-onscroll/sticky.sections/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/scrollbars-onscroll/sticky.sections/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/coin.slider/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/coin.slider/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/elastislide/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/elastislide/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/jquery.glideto/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/jquery.glideto/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/pristine.slider/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/pristine.slider/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/responsive.slides/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/responsive.slides/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/scrollpath/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/scrollpath/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/showcase/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/showcase/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/sliders/slides.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/sliders/slides.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/50c1al/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/50c1al/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/autopin/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/autopin/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/feed.menu/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/feed.menu/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/googleplusone.shiney/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/googleplusone.shiney/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/ishare.widget/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/ishare.widget/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/jquery.social.flair/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/jquery.social.flair/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/lifestream/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/lifestream/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/sharethis/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/sharethis/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/social.share.cards/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/social.share.cards/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/social.share.privacy/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/social.share.privacy/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/video.poster.image/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/video.poster.image/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/social/youtube.background/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/social/youtube.background/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/airport/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/airport/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/arctext/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/arctext/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/countdown/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/countdown/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/grrrid/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/grrrid/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/highlight/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/highlight/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/hoverattribute/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/hoverattribute/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/news-ticker/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/news-ticker/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/shuffle/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/shuffle/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/slabtext/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/slabtext/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/texteffects/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/texteffects/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/text-effects/textualizer/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/text-effects/textualizer/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/bootstrap.switch/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/bootstrap.switch/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/flexnav/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/flexnav/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/hcolumns/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/hcolumns/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/HeadShrinker-master/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/HeadShrinker-master/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/heapbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/heapbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/huge.on.facebook/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/huge.on.facebook/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/ikselect/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/ikselect/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/jinvertscroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/jinvertscroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/jquery.autocomplete/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/jquery.autocomplete/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/jquery.github/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/jquery.github/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/jquery.ohsnap/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/jquery.ohsnap/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/jquery.textcomplete/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/jquery.textcomplete/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/jquery.viewport/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/jquery.viewport/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/least/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/least/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/magic.suggest/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/magic.suggest/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/nod.validation/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/nod.validation/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/nprogress/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/nprogress/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/onepage.scroll/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/onepage.scroll/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/passy/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/passy/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/plumtube/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/plumtube/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/portbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/portbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/powerranger/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/powerranger/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/selecter/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/selecter/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/social.feed/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/social.feed/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/superbox/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/superbox/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/tidytime.js/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/tidytime.js/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/tooltipster/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/tooltipster/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/wchar/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/wchar/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/windows/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/windows/index.html</loc><changefreq>never</changefreq></url>
+<url><loc>http://jque.re/plugins/version3/zelect/index.html</loc><changefreq>never</changefreq></url>
 
-<url><loc>http://cdn.jque.re/plugins/version3/zelect/index.html</loc><changefreq>never</changefreq></url>
 
 </urlset>
